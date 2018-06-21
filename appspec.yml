@@ -1,5 +1,5 @@
 version: 0.0
 os: linux
 files:
-  - source: ./my-app-1.0-SNAPSHOT.jar
-    destination: /tmp
+  - source: /opt/codedeploy-agent/deployment-root/347f569f-e515-4ee3-ad8c-69ed8f0745ba/d-3QLWHURES/deployment-archive/my-app-1.0-SNAPSHOT.jar
+    destination: /var/www/html/
